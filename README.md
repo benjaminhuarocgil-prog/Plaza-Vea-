@@ -10,11 +10,10 @@ Los datos utilizados son sintéticos y tienen fines académicos; no representan 
 
 ## 2. Objetivos
 
-- Diseñar e implementar una base de datos relacional para representar las operaciones de una empresa minorista.
-- Mantener la integridad de los datos mediante claves primarias, claves foráneas y restricciones de unicidad.
-- Organizar la información en un modelo de datos para análisis mediante BI.
-- Preparar una base para estudiar las ventas, los productos, las tiendas y las visitas.
-- Documentar las pruebas, los resultados y las versiones del proyecto.
+- Diseñar una base de datos en SQL Server que permita registrar y organizar la información de clientes, productos, tiendas y ventas.
+- Implementar una solución de Inteligencia de Negocios (BI) que permita analizar los ingresos, la frecuencia de compra y los productos más vendidos mediante indicadores y consultas. 
+- Proponer una solución Big Data que permita procesar grandes cantidades de registros de ventas de manera organizada y eficiente.
+- Realizar pruebas con datos simulados para comprobar el funcionamiento de la base de datos, verificar que no existan productos duplicados y evaluar los resultados obtenidos. 
 
 ## 3. Tecnologías utilizadas
 
